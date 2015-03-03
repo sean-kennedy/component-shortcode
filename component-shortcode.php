@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Component Shortcode
  * Plugin URI: https://github.com/sean-kennedy/component-shortcode
- * Description: A simple Wordpress shortcode to load decoupled template-parts outside of a theme folder, load template code within the_content() area and pass in variables. Perfect for use with the Advanced Custom Fields plugin.
+ * Description: A simple Wordpress shortcode to load a template anywhere in the_content(), pass in variables and decouple from the theme folder. Perfect for use with the Advanced Custom Fields plugin.
  * Version: 1.0.0
  * Author: Sean Kennedy
  * Author URI: http://seankennedy.com.au/

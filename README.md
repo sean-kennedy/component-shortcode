@@ -1,6 +1,6 @@
 # Component Shortcode
 
-A simple Wordpress shortcode to load decoupled template-parts outside of a theme folder, load template code within `the_content()` area and pass in variables.
+A simple Wordpress shortcode to load a template anywhere in `the_content()`, pass in variables and decouple from the theme folder.
 
 Perfect for use with the fantastic [Advanced Custom Fields](http://www.advancedcustomfields.com/) plugin.
 
